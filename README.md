@@ -1,2 +1,1 @@
 ﻿# -Music-Festival
-![Image](https://github.com/user-attachments/assets/a3b017dc-3322-473f-bf60-fbba10d3008b)
